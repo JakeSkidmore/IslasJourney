@@ -1,0 +1,1784 @@
+{
+  "title": "Eila's Journey",
+  "weeks": [
+    {
+      "week": 7,
+      "size": "~0.5 in (1.3 cm) CRL",
+      "weight": "~0.04 oz (1 g)",
+      "comparison": "blueberry",
+      "baby": [
+        "Brain and spinal cord are rapidly forming; facial features begin to take shape.",
+        "Heart is beating and circulating blood through tiny vessels.",
+        "Limb buds look like paddles; early cartilage is forming for future bones.",
+        "Neural tube has closed; early eye and inner ear structures are developing."
+      ],
+      "nicole": [
+        "Hormones (hCG, progesterone, estrogen) are high\u2014fatigue, nausea, and breast tenderness are common.",
+        "Blood volume and heart rate begin rising; lightheadedness can occur, especially when standing quickly.",
+        "Uterus is growing but still in the pelvis; cramping can be normal, but severe pain should be evaluated.",
+        "Smell sensitivity and food aversions may peak; hydration becomes a daily priority."
+      ],
+      "jake": [
+        "Own the logistics: schedule/confirm appointments, manage meds/supplements list, and track questions for the OB/REI.",
+        "Build the \u2018no-judgment\u2019 food plan: keep safe snacks, bland options, and hydration aids (electrolytes, ginger tea).",
+        "Protect rest: take over physically demanding chores; create a calm bedtime routine and low-stimulus evenings.",
+        "Validate symptoms without problem-solving first; ask \u2018Do you want comfort, solutions, or space?\u2019"
+      ],
+      "todos": [
+        "If not already done: early prenatal visit/ultrasound, confirm dating, review meds and supplements.",
+        "Start a simple tracking habit: symptoms, hydration, and any spotting/cramps to discuss with provider."
+      ],
+      "symptoms": [
+        "Nausea/vomiting, food aversions, smell sensitivity",
+        "Fatigue and sleepiness",
+        "Breast tenderness, darkening areolas",
+        "Bloating/constipation, heartburn",
+        "Mood swings, anxiety, vivid dreams",
+        "Frequent urination"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Focus on \u2018survival nutrition\u2019: small frequent meals, protein + carbs, and whatever stays down; nausea management is a health priority.",
+        "Gentle movement (short walks, stretching) can help energy and constipation\u2014only as tolerated."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 8,
+      "size": "~0.6\u20130.9 in (1.6\u20132.3 cm) CRL",
+      "weight": "~0.07 oz (2 g)",
+      "comparison": "raspberry",
+      "baby": [
+        "Major organs are laid down; this is a high-growth and high-sensitivity period.",
+        "Hands and feet start to show distinct fingers/toes (still webbed).",
+        "Eyelids are forming; ears are moving toward their final position.",
+        "Tail-like structure disappears as the body straightens and lengthens."
+      ],
+      "nicole": [
+        "Hormones (hCG, progesterone, estrogen) are high\u2014fatigue, nausea, and breast tenderness are common.",
+        "Blood volume and heart rate begin rising; lightheadedness can occur, especially when standing quickly.",
+        "Uterus is growing but still in the pelvis; cramping can be normal, but severe pain should be evaluated.",
+        "Smell sensitivity and food aversions may peak; hydration becomes a daily priority."
+      ],
+      "jake": [
+        "Own the logistics: schedule/confirm appointments, manage meds/supplements list, and track questions for the OB/REI.",
+        "Build the \u2018no-judgment\u2019 food plan: keep safe snacks, bland options, and hydration aids (electrolytes, ginger tea).",
+        "Protect rest: take over physically demanding chores; create a calm bedtime routine and low-stimulus evenings.",
+        "Validate symptoms without problem-solving first; ask \u2018Do you want comfort, solutions, or space?\u2019"
+      ],
+      "todos": [
+        "Discuss nausea management options (diet, B6/doxylamine, etc.) with your provider if symptoms interfere with eating/drinking."
+      ],
+      "symptoms": [
+        "Nausea/vomiting, food aversions, smell sensitivity",
+        "Fatigue and sleepiness",
+        "Breast tenderness, darkening areolas",
+        "Bloating/constipation, heartburn",
+        "Mood swings, anxiety, vivid dreams",
+        "Frequent urination"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Focus on \u2018survival nutrition\u2019: small frequent meals, protein + carbs, and whatever stays down; nausea management is a health priority.",
+        "Gentle movement (short walks, stretching) can help energy and constipation\u2014only as tolerated."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 9,
+      "size": "~0.9\u20131.2 in (2.3\u20133.1 cm) CRL",
+      "weight": "~0.1\u20130.2 oz (3\u20135 g)",
+      "comparison": "grape",
+      "baby": [
+        "Embryo becomes a fetus; basic body plan is established.",
+        "Fingers and toes become more defined; nails begin as tiny beds.",
+        "Muscles begin to develop\u2014small spontaneous movements can start (not felt yet).",
+        "Digestive tract continues forming; liver begins making blood cells."
+      ],
+      "nicole": [
+        "Hormones (hCG, progesterone, estrogen) are high\u2014fatigue, nausea, and breast tenderness are common.",
+        "Blood volume and heart rate begin rising; lightheadedness can occur, especially when standing quickly.",
+        "Uterus is growing but still in the pelvis; cramping can be normal, but severe pain should be evaluated.",
+        "Smell sensitivity and food aversions may peak; hydration becomes a daily priority."
+      ],
+      "jake": [
+        "Own the logistics: schedule/confirm appointments, manage meds/supplements list, and track questions for the OB/REI.",
+        "Build the \u2018no-judgment\u2019 food plan: keep safe snacks, bland options, and hydration aids (electrolytes, ginger tea).",
+        "Protect rest: take over physically demanding chores; create a calm bedtime routine and low-stimulus evenings.",
+        "Validate symptoms without problem-solving first; ask \u2018Do you want comfort, solutions, or space?\u2019"
+      ],
+      "todos": [
+        "Ask about genetic screening options (NIPT/cfDNA, carrier screening) and timing based on your care plan."
+      ],
+      "symptoms": [
+        "Nausea/vomiting, food aversions, smell sensitivity",
+        "Fatigue and sleepiness",
+        "Breast tenderness, darkening areolas",
+        "Bloating/constipation, heartburn",
+        "Mood swings, anxiety, vivid dreams",
+        "Frequent urination"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Focus on \u2018survival nutrition\u2019: small frequent meals, protein + carbs, and whatever stays down; nausea management is a health priority.",
+        "Gentle movement (short walks, stretching) can help energy and constipation\u2014only as tolerated."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 10,
+      "size": "~1.2\u20131.6 in (3.1\u20134.1 cm) CRL",
+      "weight": "~0.25 oz (7 g)",
+      "comparison": "kumquat",
+      "baby": [
+        "Arms can bend at elbows; legs lengthen; facial profile becomes clearer.",
+        "Tooth buds form beneath the gums; external ears become more distinct.",
+        "Brain growth accelerates; connections begin forming for reflexes.",
+        "Placenta takes on more hormone production and support functions."
+      ],
+      "nicole": [
+        "Hormones (hCG, progesterone, estrogen) are high\u2014fatigue, nausea, and breast tenderness are common.",
+        "Blood volume and heart rate begin rising; lightheadedness can occur, especially when standing quickly.",
+        "Uterus is growing but still in the pelvis; cramping can be normal, but severe pain should be evaluated.",
+        "Smell sensitivity and food aversions may peak; hydration becomes a daily priority.",
+        "Nausea may start easing for some as the placenta takes over more hormone production."
+      ],
+      "jake": [
+        "Own the logistics: schedule/confirm appointments, manage meds/supplements list, and track questions for the OB/REI.",
+        "Build the \u2018no-judgment\u2019 food plan: keep safe snacks, bland options, and hydration aids (electrolytes, ginger tea).",
+        "Protect rest: take over physically demanding chores; create a calm bedtime routine and low-stimulus evenings.",
+        "Validate symptoms without problem-solving first; ask \u2018Do you want comfort, solutions, or space?\u2019"
+      ],
+      "todos": [
+        "Ask about genetic screening options (NIPT/cfDNA, carrier screening) and timing based on your care plan."
+      ],
+      "symptoms": [
+        "Nausea/vomiting, food aversions, smell sensitivity",
+        "Fatigue and sleepiness",
+        "Breast tenderness, darkening areolas",
+        "Bloating/constipation, heartburn",
+        "Mood swings, anxiety, vivid dreams",
+        "Frequent urination"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Focus on \u2018survival nutrition\u2019: small frequent meals, protein + carbs, and whatever stays down; nausea management is a health priority.",
+        "Gentle movement (short walks, stretching) can help energy and constipation\u2014only as tolerated."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 11,
+      "size": "~1.6\u20132.0 in (4.1\u20135.1 cm) CRL",
+      "weight": "~0.35 oz (10 g)",
+      "comparison": "fig",
+      "baby": [
+        "Bones begin to harden (ossify); joints start forming.",
+        "Hands open/close; tiny hiccup-like motions can occur.",
+        "Genital structures are developing (sex may not be visible yet).",
+        "Kidneys begin making small amounts of urine into the amniotic fluid."
+      ],
+      "nicole": [
+        "Hormones (hCG, progesterone, estrogen) are high\u2014fatigue, nausea, and breast tenderness are common.",
+        "Blood volume and heart rate begin rising; lightheadedness can occur, especially when standing quickly.",
+        "Uterus is growing but still in the pelvis; cramping can be normal, but severe pain should be evaluated.",
+        "Smell sensitivity and food aversions may peak; hydration becomes a daily priority.",
+        "Nausea may start easing for some as the placenta takes over more hormone production."
+      ],
+      "jake": [
+        "Own the logistics: schedule/confirm appointments, manage meds/supplements list, and track questions for the OB/REI.",
+        "Build the \u2018no-judgment\u2019 food plan: keep safe snacks, bland options, and hydration aids (electrolytes, ginger tea).",
+        "Protect rest: take over physically demanding chores; create a calm bedtime routine and low-stimulus evenings.",
+        "Validate symptoms without problem-solving first; ask \u2018Do you want comfort, solutions, or space?\u2019"
+      ],
+      "todos": [
+        "If chosen: NIPT blood draw often available around 10+ weeks; nuchal translucency (NT) ultrasound commonly 11\u201313+ weeks.",
+        "Review vaccination recommendations (flu, COVID) as applicable."
+      ],
+      "symptoms": [
+        "Nausea/vomiting, food aversions, smell sensitivity",
+        "Fatigue and sleepiness",
+        "Breast tenderness, darkening areolas",
+        "Bloating/constipation, heartburn",
+        "Mood swings, anxiety, vivid dreams",
+        "Frequent urination"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Focus on \u2018survival nutrition\u2019: small frequent meals, protein + carbs, and whatever stays down; nausea management is a health priority.",
+        "Gentle movement (short walks, stretching) can help energy and constipation\u2014only as tolerated."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 12,
+      "size": "~2.1 in (5.4 cm) CRL",
+      "weight": "~0.5 oz (14 g)",
+      "comparison": "lime",
+      "baby": [
+        "Reflexes strengthen\u2014fetus can curl fingers and make sucking motions.",
+        "Vocal cords form; intestines continue moving toward the abdomen.",
+        "Heart valves and chambers are more developed; heartbeat can often be heard by Doppler.",
+        "Face looks more human; eyelids remain closed to protect developing eyes."
+      ],
+      "nicole": [
+        "Hormones (hCG, progesterone, estrogen) are high\u2014fatigue, nausea, and breast tenderness are common.",
+        "Blood volume and heart rate begin rising; lightheadedness can occur, especially when standing quickly.",
+        "Uterus is growing but still in the pelvis; cramping can be normal, but severe pain should be evaluated.",
+        "Smell sensitivity and food aversions may peak; hydration becomes a daily priority.",
+        "Nausea may start easing for some as the placenta takes over more hormone production."
+      ],
+      "jake": [
+        "Own the logistics: schedule/confirm appointments, manage meds/supplements list, and track questions for the OB/REI.",
+        "Build the \u2018no-judgment\u2019 food plan: keep safe snacks, bland options, and hydration aids (electrolytes, ginger tea).",
+        "Protect rest: take over physically demanding chores; create a calm bedtime routine and low-stimulus evenings.",
+        "Validate symptoms without problem-solving first; ask \u2018Do you want comfort, solutions, or space?\u2019"
+      ],
+      "todos": [
+        "If chosen: NIPT blood draw often available around 10+ weeks; nuchal translucency (NT) ultrasound commonly 11\u201313+ weeks.",
+        "Review vaccination recommendations (flu, COVID) as applicable."
+      ],
+      "symptoms": [
+        "Nausea/vomiting, food aversions, smell sensitivity",
+        "Fatigue and sleepiness",
+        "Breast tenderness, darkening areolas",
+        "Bloating/constipation, heartburn",
+        "Mood swings, anxiety, vivid dreams",
+        "Frequent urination"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Focus on \u2018survival nutrition\u2019: small frequent meals, protein + carbs, and whatever stays down; nausea management is a health priority.",
+        "Gentle movement (short walks, stretching) can help energy and constipation\u2014only as tolerated."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 13,
+      "size": "~2.9 in (7.4 cm) CRL",
+      "weight": "~0.8 oz (23 g)",
+      "comparison": "lemon",
+      "baby": [
+        "Fine motor movements increase; fingers have unique prints forming.",
+        "Bones and muscles continue building; ribs and spine are developing.",
+        "Immune system foundations begin; placenta is fully supporting growth.",
+        "Amniotic fluid level rises, allowing more movement and cushioning."
+      ],
+      "nicole": [
+        "Hormones (hCG, progesterone, estrogen) are high\u2014fatigue, nausea, and breast tenderness are common.",
+        "Blood volume and heart rate begin rising; lightheadedness can occur, especially when standing quickly.",
+        "Uterus is growing but still in the pelvis; cramping can be normal, but severe pain should be evaluated.",
+        "Smell sensitivity and food aversions may peak; hydration becomes a daily priority.",
+        "Nausea may start easing for some as the placenta takes over more hormone production."
+      ],
+      "jake": [
+        "Own the logistics: schedule/confirm appointments, manage meds/supplements list, and track questions for the OB/REI.",
+        "Build the \u2018no-judgment\u2019 food plan: keep safe snacks, bland options, and hydration aids (electrolytes, ginger tea).",
+        "Protect rest: take over physically demanding chores; create a calm bedtime routine and low-stimulus evenings.",
+        "Validate symptoms without problem-solving first; ask \u2018Do you want comfort, solutions, or space?\u2019"
+      ],
+      "todos": [
+        "If chosen: NIPT blood draw often available around 10+ weeks; nuchal translucency (NT) ultrasound commonly 11\u201313+ weeks.",
+        "Review vaccination recommendations (flu, COVID) as applicable."
+      ],
+      "symptoms": [
+        "Nausea/vomiting, food aversions, smell sensitivity",
+        "Fatigue and sleepiness",
+        "Breast tenderness, darkening areolas",
+        "Bloating/constipation, heartburn",
+        "Mood swings, anxiety, vivid dreams",
+        "Frequent urination"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Focus on \u2018survival nutrition\u2019: small frequent meals, protein + carbs, and whatever stays down; nausea management is a health priority.",
+        "Gentle movement (short walks, stretching) can help energy and constipation\u2014only as tolerated."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 14,
+      "size": "~3.4 in (8.7 cm) CRL",
+      "weight": "~1.5 oz (43 g)",
+      "comparison": "peach",
+      "baby": [
+        "Neck strengthens; head becomes more proportional to the body.",
+        "Facial expressions are possible as muscles develop.",
+        "Liver and spleen contribute to blood production; skin is very thin/transparent.",
+        "Lanugo (fine hair) begins to appear in coming weeks."
+      ],
+      "nicole": [
+        "Energy often improves; nausea may lessen, though not for everyone.",
+        "Uterus rises into the abdomen\u2014belly growth becomes more noticeable.",
+        "Ligaments stretch (round ligament pain) causing sharp twinges with movement.",
+        "Skin and circulation changes can show up (glow, nasal congestion, mild swelling)."
+      ],
+      "jake": [
+        "Help Nicole stay comfortable: support pillows, gentle walks, and proactive breaks during errands/outings.",
+        "Be the health advocate: attend key visits, take notes, and understand screening/ultrasound results.",
+        "Start nesting as a project: research baby gear, set up registry, and handle big purchases and returns.",
+        "Keep connection: weekly \u2018check-in\u2019 (10\u201315 min) on feelings, needs, and what\u2019s working."
+      ],
+      "todos": [
+        "Second trimester planning: ask when anatomy scan will be scheduled (often 18\u201322 weeks)."
+      ],
+      "symptoms": [
+        "Round ligament pain, mild back/hip discomfort",
+        "Nasal congestion or nosebleeds",
+        "Heartburn/indigestion",
+        "Leg cramps, restless legs",
+        "Skin changes (stretch marks, linea nigra, pigmentation)",
+        "Increased vaginal discharge (usually thin/white)"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Prioritize protein, fiber, and calcium; add iron-rich foods and pair with vitamin C to improve absorption.",
+        "Add pelvic-friendly strength: glute/hip work, posture, and core stability (often with prenatal PT guidance)."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 15,
+      "size": "~4.0 in (10.1 cm) CRL",
+      "weight": "~2.5 oz (70 g)",
+      "comparison": "apple",
+      "baby": [
+        "Skeletal system continues hardening; legs may outpace arms in growth.",
+        "Hearing structures mature\u2014baby can start sensing vibrations.",
+        "Taste buds form; swallowing amniotic fluid helps practice digestion.",
+        "Placenta supports steady nutrient and oxygen exchange."
+      ],
+      "nicole": [
+        "Energy often improves; nausea may lessen, though not for everyone.",
+        "Uterus rises into the abdomen\u2014belly growth becomes more noticeable.",
+        "Ligaments stretch (round ligament pain) causing sharp twinges with movement.",
+        "Skin and circulation changes can show up (glow, nasal congestion, mild swelling)."
+      ],
+      "jake": [
+        "Help Nicole stay comfortable: support pillows, gentle walks, and proactive breaks during errands/outings.",
+        "Be the health advocate: attend key visits, take notes, and understand screening/ultrasound results.",
+        "Start nesting as a project: research baby gear, set up registry, and handle big purchases and returns.",
+        "Keep connection: weekly \u2018check-in\u2019 (10\u201315 min) on feelings, needs, and what\u2019s working."
+      ],
+      "todos": [],
+      "symptoms": [
+        "Round ligament pain, mild back/hip discomfort",
+        "Nasal congestion or nosebleeds",
+        "Heartburn/indigestion",
+        "Leg cramps, restless legs",
+        "Skin changes (stretch marks, linea nigra, pigmentation)",
+        "Increased vaginal discharge (usually thin/white)"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Prioritize protein, fiber, and calcium; add iron-rich foods and pair with vitamin C to improve absorption.",
+        "Add pelvic-friendly strength: glute/hip work, posture, and core stability (often with prenatal PT guidance)."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 16,
+      "size": "~4.6 in (11.6 cm) CRL",
+      "weight": "~3.5 oz (100 g)",
+      "comparison": "avocado",
+      "baby": [
+        "Coordinated movements increase; baby can hold head more upright.",
+        "Eyes and ears are nearly in final position; eye movements begin.",
+        "Heart pumps ~pints of blood daily (scale-adjusted); circulation strengthens.",
+        "Meconium (first stool) begins collecting in the intestines."
+      ],
+      "nicole": [
+        "Energy often improves; nausea may lessen, though not for everyone.",
+        "Uterus rises into the abdomen\u2014belly growth becomes more noticeable.",
+        "Ligaments stretch (round ligament pain) causing sharp twinges with movement.",
+        "Skin and circulation changes can show up (glow, nasal congestion, mild swelling)."
+      ],
+      "jake": [
+        "Help Nicole stay comfortable: support pillows, gentle walks, and proactive breaks during errands/outings.",
+        "Be the health advocate: attend key visits, take notes, and understand screening/ultrasound results.",
+        "Start nesting as a project: research baby gear, set up registry, and handle big purchases and returns.",
+        "Keep connection: weekly \u2018check-in\u2019 (10\u201315 min) on feelings, needs, and what\u2019s working."
+      ],
+      "todos": [
+        "Some practices offer maternal serum AFP screening around 15\u201320 weeks; confirm timing if you\u2019re doing it."
+      ],
+      "symptoms": [
+        "Round ligament pain, mild back/hip discomfort",
+        "Nasal congestion or nosebleeds",
+        "Heartburn/indigestion",
+        "Leg cramps, restless legs",
+        "Skin changes (stretch marks, linea nigra, pigmentation)",
+        "Increased vaginal discharge (usually thin/white)"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Prioritize protein, fiber, and calcium; add iron-rich foods and pair with vitamin C to improve absorption.",
+        "Add pelvic-friendly strength: glute/hip work, posture, and core stability (often with prenatal PT guidance)."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 17,
+      "size": "~5.1 in (13 cm) CRL",
+      "weight": "~5 oz (140 g)",
+      "comparison": "pear",
+      "baby": [
+        "Body fat starts accumulating slowly; skin remains thin but less translucent.",
+        "Sweat glands form; umbilical cord thickens and strengthens.",
+        "Brain development supports more complex movement patterns.",
+        "Skeleton shifts from cartilage to bone in many areas."
+      ],
+      "nicole": [
+        "Energy often improves; nausea may lessen, though not for everyone.",
+        "Uterus rises into the abdomen\u2014belly growth becomes more noticeable.",
+        "Ligaments stretch (round ligament pain) causing sharp twinges with movement.",
+        "Skin and circulation changes can show up (glow, nasal congestion, mild swelling)."
+      ],
+      "jake": [
+        "Help Nicole stay comfortable: support pillows, gentle walks, and proactive breaks during errands/outings.",
+        "Be the health advocate: attend key visits, take notes, and understand screening/ultrasound results.",
+        "Start nesting as a project: research baby gear, set up registry, and handle big purchases and returns.",
+        "Keep connection: weekly \u2018check-in\u2019 (10\u201315 min) on feelings, needs, and what\u2019s working."
+      ],
+      "todos": [
+        "Some practices offer maternal serum AFP screening around 15\u201320 weeks; confirm timing if you\u2019re doing it."
+      ],
+      "symptoms": [
+        "Round ligament pain, mild back/hip discomfort",
+        "Nasal congestion or nosebleeds",
+        "Heartburn/indigestion",
+        "Leg cramps, restless legs",
+        "Skin changes (stretch marks, linea nigra, pigmentation)",
+        "Increased vaginal discharge (usually thin/white)"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Prioritize protein, fiber, and calcium; add iron-rich foods and pair with vitamin C to improve absorption.",
+        "Add pelvic-friendly strength: glute/hip work, posture, and core stability (often with prenatal PT guidance)."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 18,
+      "size": "~5.6 in (14.2 cm) CRL",
+      "weight": "~6.7 oz (190 g)",
+      "comparison": "bell pepper",
+      "baby": [
+        "Nervous system myelination begins, improving signal speed.",
+        "Ears are positioned; baby may respond to loud sounds.",
+        "Reproductive organs continue maturing; uterus/ovaries or testes develop further.",
+        "Kicking and rolling increase\u2014some parents begin to feel fluttering now."
+      ],
+      "nicole": [
+        "Energy often improves; nausea may lessen, though not for everyone.",
+        "Uterus rises into the abdomen\u2014belly growth becomes more noticeable.",
+        "Ligaments stretch (round ligament pain) causing sharp twinges with movement.",
+        "Skin and circulation changes can show up (glow, nasal congestion, mild swelling)."
+      ],
+      "jake": [
+        "Help Nicole stay comfortable: support pillows, gentle walks, and proactive breaks during errands/outings.",
+        "Be the health advocate: attend key visits, take notes, and understand screening/ultrasound results.",
+        "Start nesting as a project: research baby gear, set up registry, and handle big purchases and returns.",
+        "Keep connection: weekly \u2018check-in\u2019 (10\u201315 min) on feelings, needs, and what\u2019s working."
+      ],
+      "todos": [
+        "Anatomy ultrasound is commonly performed between 18\u201322 weeks; write down questions ahead of time."
+      ],
+      "symptoms": [
+        "Round ligament pain, mild back/hip discomfort",
+        "Nasal congestion or nosebleeds",
+        "Heartburn/indigestion",
+        "Leg cramps, restless legs",
+        "Skin changes (stretch marks, linea nigra, pigmentation)",
+        "Increased vaginal discharge (usually thin/white)"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Prioritize protein, fiber, and calcium; add iron-rich foods and pair with vitamin C to improve absorption.",
+        "Add pelvic-friendly strength: glute/hip work, posture, and core stability (often with prenatal PT guidance)."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 19,
+      "size": "~6.0 in (15.3 cm) CRL",
+      "weight": "~8.5 oz (240 g)",
+      "comparison": "mango",
+      "baby": [
+        "Vernix caseosa (protective coating) begins forming on skin.",
+        "Sensory development advances; brain areas for smell, taste, touch grow.",
+        "Arms and legs move more purposefully; sleep\u2013wake patterns begin.",
+        "Baby may start developing a more regular heartbeat rhythm."
+      ],
+      "nicole": [
+        "Energy often improves; nausea may lessen, though not for everyone.",
+        "Uterus rises into the abdomen\u2014belly growth becomes more noticeable.",
+        "Ligaments stretch (round ligament pain) causing sharp twinges with movement.",
+        "Skin and circulation changes can show up (glow, nasal congestion, mild swelling)."
+      ],
+      "jake": [
+        "Help Nicole stay comfortable: support pillows, gentle walks, and proactive breaks during errands/outings.",
+        "Be the health advocate: attend key visits, take notes, and understand screening/ultrasound results.",
+        "Start nesting as a project: research baby gear, set up registry, and handle big purchases and returns.",
+        "Keep connection: weekly \u2018check-in\u2019 (10\u201315 min) on feelings, needs, and what\u2019s working."
+      ],
+      "todos": [
+        "Anatomy ultrasound is commonly performed between 18\u201322 weeks; write down questions ahead of time."
+      ],
+      "symptoms": [
+        "Round ligament pain, mild back/hip discomfort",
+        "Nasal congestion or nosebleeds",
+        "Heartburn/indigestion",
+        "Leg cramps, restless legs",
+        "Skin changes (stretch marks, linea nigra, pigmentation)",
+        "Increased vaginal discharge (usually thin/white)"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Prioritize protein, fiber, and calcium; add iron-rich foods and pair with vitamin C to improve absorption.",
+        "Add pelvic-friendly strength: glute/hip work, posture, and core stability (often with prenatal PT guidance)."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 20,
+      "size": "~6.5 in (16.4 cm) CRL",
+      "weight": "~10.5 oz (300 g)",
+      "comparison": "banana",
+      "baby": [
+        "Halfway point\u2014major anatomy is in place and refining.",
+        "Lanugo covers the body; vernix thickens to protect skin in fluid.",
+        "Hearing improves; baby recognizes internal sounds (heartbeat, digestion).",
+        "Swallowing and sucking practice continue; growth becomes more steady."
+      ],
+      "nicole": [
+        "Energy often improves; nausea may lessen, though not for everyone.",
+        "Uterus rises into the abdomen\u2014belly growth becomes more noticeable.",
+        "Ligaments stretch (round ligament pain) causing sharp twinges with movement.",
+        "Skin and circulation changes can show up (glow, nasal congestion, mild swelling).",
+        "Back/hip discomfort can increase as posture shifts; core and pelvic stability become important."
+      ],
+      "jake": [
+        "Help Nicole stay comfortable: support pillows, gentle walks, and proactive breaks during errands/outings.",
+        "Be the health advocate: attend key visits, take notes, and understand screening/ultrasound results.",
+        "Start nesting as a project: research baby gear, set up registry, and handle big purchases and returns.",
+        "Keep connection: weekly \u2018check-in\u2019 (10\u201315 min) on feelings, needs, and what\u2019s working.",
+        "Mark the milestone: plan a low-key celebration (photo, note to Eila, or a simple date)."
+      ],
+      "todos": [
+        "Anatomy ultrasound is commonly performed between 18\u201322 weeks; write down questions ahead of time."
+      ],
+      "symptoms": [
+        "Round ligament pain, mild back/hip discomfort",
+        "Nasal congestion or nosebleeds",
+        "Heartburn/indigestion",
+        "Leg cramps, restless legs",
+        "Skin changes (stretch marks, linea nigra, pigmentation)",
+        "Increased vaginal discharge (usually thin/white)"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Prioritize protein, fiber, and calcium; add iron-rich foods and pair with vitamin C to improve absorption.",
+        "Add pelvic-friendly strength: glute/hip work, posture, and core stability (often with prenatal PT guidance)."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 21,
+      "size": "~10.5 in (26.7 cm) head-to-heel",
+      "weight": "~12.5 oz (360 g)",
+      "comparison": "carrot",
+      "baby": [
+        "Digestive system practices by swallowing; taste may be influenced by amniotic fluid.",
+        "Bone marrow begins making blood cells, reducing reliance on liver/spleen.",
+        "Eyelids and eyebrows are well formed; more facial features are defined.",
+        "Movements are stronger and more coordinated."
+      ],
+      "nicole": [
+        "Energy often improves; nausea may lessen, though not for everyone.",
+        "Uterus rises into the abdomen\u2014belly growth becomes more noticeable.",
+        "Ligaments stretch (round ligament pain) causing sharp twinges with movement.",
+        "Skin and circulation changes can show up (glow, nasal congestion, mild swelling).",
+        "Back/hip discomfort can increase as posture shifts; core and pelvic stability become important."
+      ],
+      "jake": [
+        "Help Nicole stay comfortable: support pillows, gentle walks, and proactive breaks during errands/outings.",
+        "Be the health advocate: attend key visits, take notes, and understand screening/ultrasound results.",
+        "Start nesting as a project: research baby gear, set up registry, and handle big purchases and returns.",
+        "Keep connection: weekly \u2018check-in\u2019 (10\u201315 min) on feelings, needs, and what\u2019s working."
+      ],
+      "todos": [
+        "Anatomy ultrasound is commonly performed between 18\u201322 weeks; write down questions ahead of time."
+      ],
+      "symptoms": [
+        "Round ligament pain, mild back/hip discomfort",
+        "Nasal congestion or nosebleeds",
+        "Heartburn/indigestion",
+        "Leg cramps, restless legs",
+        "Skin changes (stretch marks, linea nigra, pigmentation)",
+        "Increased vaginal discharge (usually thin/white)"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Prioritize protein, fiber, and calcium; add iron-rich foods and pair with vitamin C to improve absorption.",
+        "Add pelvic-friendly strength: glute/hip work, posture, and core stability (often with prenatal PT guidance)."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 22,
+      "size": "~11.0 in (28 cm) head-to-heel",
+      "weight": "~1 lb (450 g)",
+      "comparison": "spaghetti squash",
+      "baby": [
+        "Lungs develop alveolar sacs; surfactant production will ramp up later.",
+        "Skin is wrinkled as fat stores are still building.",
+        "Nervous system continues wiring; baby can grasp the umbilical cord.",
+        "Baby responds to light and sound more consistently."
+      ],
+      "nicole": [
+        "Energy often improves; nausea may lessen, though not for everyone.",
+        "Uterus rises into the abdomen\u2014belly growth becomes more noticeable.",
+        "Ligaments stretch (round ligament pain) causing sharp twinges with movement.",
+        "Skin and circulation changes can show up (glow, nasal congestion, mild swelling).",
+        "Back/hip discomfort can increase as posture shifts; core and pelvic stability become important."
+      ],
+      "jake": [
+        "Help Nicole stay comfortable: support pillows, gentle walks, and proactive breaks during errands/outings.",
+        "Be the health advocate: attend key visits, take notes, and understand screening/ultrasound results.",
+        "Start nesting as a project: research baby gear, set up registry, and handle big purchases and returns.",
+        "Keep connection: weekly \u2018check-in\u2019 (10\u201315 min) on feelings, needs, and what\u2019s working."
+      ],
+      "todos": [
+        "Anatomy ultrasound is commonly performed between 18\u201322 weeks; write down questions ahead of time."
+      ],
+      "symptoms": [
+        "Round ligament pain, mild back/hip discomfort",
+        "Nasal congestion or nosebleeds",
+        "Heartburn/indigestion",
+        "Leg cramps, restless legs",
+        "Skin changes (stretch marks, linea nigra, pigmentation)",
+        "Increased vaginal discharge (usually thin/white)"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Prioritize protein, fiber, and calcium; add iron-rich foods and pair with vitamin C to improve absorption.",
+        "Add pelvic-friendly strength: glute/hip work, posture, and core stability (often with prenatal PT guidance)."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 23,
+      "size": "~11.5 in (29 cm) head-to-heel",
+      "weight": "~1.1 lb (500 g)",
+      "comparison": "large mango",
+      "baby": [
+        "Rapid brain growth; early auditory processing develops.",
+        "Lungs begin producing small amounts of surfactant.",
+        "Tiny blood vessels in lungs develop; practice breathing motions increase.",
+        "If born extremely early, intensive support may be possible but outcomes vary widely."
+      ],
+      "nicole": [
+        "Energy often improves; nausea may lessen, though not for everyone.",
+        "Uterus rises into the abdomen\u2014belly growth becomes more noticeable.",
+        "Ligaments stretch (round ligament pain) causing sharp twinges with movement.",
+        "Skin and circulation changes can show up (glow, nasal congestion, mild swelling).",
+        "Back/hip discomfort can increase as posture shifts; core and pelvic stability become important."
+      ],
+      "jake": [
+        "Help Nicole stay comfortable: support pillows, gentle walks, and proactive breaks during errands/outings.",
+        "Be the health advocate: attend key visits, take notes, and understand screening/ultrasound results.",
+        "Start nesting as a project: research baby gear, set up registry, and handle big purchases and returns.",
+        "Keep connection: weekly \u2018check-in\u2019 (10\u201315 min) on feelings, needs, and what\u2019s working."
+      ],
+      "todos": [],
+      "symptoms": [
+        "Round ligament pain, mild back/hip discomfort",
+        "Nasal congestion or nosebleeds",
+        "Heartburn/indigestion",
+        "Leg cramps, restless legs",
+        "Skin changes (stretch marks, linea nigra, pigmentation)",
+        "Increased vaginal discharge (usually thin/white)"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Prioritize protein, fiber, and calcium; add iron-rich foods and pair with vitamin C to improve absorption.",
+        "Add pelvic-friendly strength: glute/hip work, posture, and core stability (often with prenatal PT guidance)."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 24,
+      "size": "~12.0 in (30 cm) head-to-heel",
+      "weight": "~1.3 lb (600 g)",
+      "comparison": "ear of corn",
+      "baby": [
+        "Viability window approaches for many NICUs; lungs and brain still very immature.",
+        "Startle reflex strengthens; inner ear helps with balance and orientation.",
+        "Skin thickens slightly; more fat begins accumulating.",
+        "Heartbeat and breathing practice are more rhythmic."
+      ],
+      "nicole": [
+        "Energy often improves; nausea may lessen, though not for everyone.",
+        "Uterus rises into the abdomen\u2014belly growth becomes more noticeable.",
+        "Ligaments stretch (round ligament pain) causing sharp twinges with movement.",
+        "Skin and circulation changes can show up (glow, nasal congestion, mild swelling).",
+        "Back/hip discomfort can increase as posture shifts; core and pelvic stability become important."
+      ],
+      "jake": [
+        "Help Nicole stay comfortable: support pillows, gentle walks, and proactive breaks during errands/outings.",
+        "Be the health advocate: attend key visits, take notes, and understand screening/ultrasound results.",
+        "Start nesting as a project: research baby gear, set up registry, and handle big purchases and returns.",
+        "Keep connection: weekly \u2018check-in\u2019 (10\u201315 min) on feelings, needs, and what\u2019s working."
+      ],
+      "todos": [
+        "Glucose screening for gestational diabetes is often done between 24\u201328 weeks; clarify prep instructions.",
+        "Ask about Rhogam timing if Nicole is Rh-negative (often around 28 weeks)."
+      ],
+      "symptoms": [
+        "Round ligament pain, mild back/hip discomfort",
+        "Nasal congestion or nosebleeds",
+        "Heartburn/indigestion",
+        "Leg cramps, restless legs",
+        "Skin changes (stretch marks, linea nigra, pigmentation)",
+        "Increased vaginal discharge (usually thin/white)"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Prioritize protein, fiber, and calcium; add iron-rich foods and pair with vitamin C to improve absorption.",
+        "Add pelvic-friendly strength: glute/hip work, posture, and core stability (often with prenatal PT guidance)."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 25,
+      "size": "~13.5 in (34 cm) head-to-heel",
+      "weight": "~1.5 lb (700 g)",
+      "comparison": "rutabaga",
+      "baby": [
+        "Nervous system continues maturing; hands gain better coordination.",
+        "Spine and posture strengthen; baby may change positions often.",
+        "Lungs develop more airways; surfactant gradually increases.",
+        "Sleep cycles become more apparent."
+      ],
+      "nicole": [
+        "Energy often improves; nausea may lessen, though not for everyone.",
+        "Uterus rises into the abdomen\u2014belly growth becomes more noticeable.",
+        "Ligaments stretch (round ligament pain) causing sharp twinges with movement.",
+        "Skin and circulation changes can show up (glow, nasal congestion, mild swelling).",
+        "Back/hip discomfort can increase as posture shifts; core and pelvic stability become important."
+      ],
+      "jake": [
+        "Help Nicole stay comfortable: support pillows, gentle walks, and proactive breaks during errands/outings.",
+        "Be the health advocate: attend key visits, take notes, and understand screening/ultrasound results.",
+        "Start nesting as a project: research baby gear, set up registry, and handle big purchases and returns.",
+        "Keep connection: weekly \u2018check-in\u2019 (10\u201315 min) on feelings, needs, and what\u2019s working."
+      ],
+      "todos": [
+        "Glucose screening for gestational diabetes is often done between 24\u201328 weeks; clarify prep instructions.",
+        "Ask about Rhogam timing if Nicole is Rh-negative (often around 28 weeks)."
+      ],
+      "symptoms": [
+        "Round ligament pain, mild back/hip discomfort",
+        "Nasal congestion or nosebleeds",
+        "Heartburn/indigestion",
+        "Leg cramps, restless legs",
+        "Skin changes (stretch marks, linea nigra, pigmentation)",
+        "Increased vaginal discharge (usually thin/white)"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Prioritize protein, fiber, and calcium; add iron-rich foods and pair with vitamin C to improve absorption.",
+        "Add pelvic-friendly strength: glute/hip work, posture, and core stability (often with prenatal PT guidance)."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 26,
+      "size": "~14.0 in (35.6 cm) head-to-heel",
+      "weight": "~1.7 lb (770 g)",
+      "comparison": "scallion bunch",
+      "baby": [
+        "Eyes begin opening; blinking starts.",
+        "Brain wave patterns become more complex.",
+        "Lungs continue branching; baby practices \u201cbreathing\u201d amniotic fluid.",
+        "Immune system is developing but still relies heavily on maternal antibodies."
+      ],
+      "nicole": [
+        "Energy often improves; nausea may lessen, though not for everyone.",
+        "Uterus rises into the abdomen\u2014belly growth becomes more noticeable.",
+        "Ligaments stretch (round ligament pain) causing sharp twinges with movement.",
+        "Skin and circulation changes can show up (glow, nasal congestion, mild swelling).",
+        "Back/hip discomfort can increase as posture shifts; core and pelvic stability become important."
+      ],
+      "jake": [
+        "Help Nicole stay comfortable: support pillows, gentle walks, and proactive breaks during errands/outings.",
+        "Be the health advocate: attend key visits, take notes, and understand screening/ultrasound results.",
+        "Start nesting as a project: research baby gear, set up registry, and handle big purchases and returns.",
+        "Keep connection: weekly \u2018check-in\u2019 (10\u201315 min) on feelings, needs, and what\u2019s working."
+      ],
+      "todos": [
+        "Glucose screening for gestational diabetes is often done between 24\u201328 weeks; clarify prep instructions.",
+        "Ask about Rhogam timing if Nicole is Rh-negative (often around 28 weeks)."
+      ],
+      "symptoms": [
+        "Round ligament pain, mild back/hip discomfort",
+        "Nasal congestion or nosebleeds",
+        "Heartburn/indigestion",
+        "Leg cramps, restless legs",
+        "Skin changes (stretch marks, linea nigra, pigmentation)",
+        "Increased vaginal discharge (usually thin/white)"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Prioritize protein, fiber, and calcium; add iron-rich foods and pair with vitamin C to improve absorption.",
+        "Add pelvic-friendly strength: glute/hip work, posture, and core stability (often with prenatal PT guidance)."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 27,
+      "size": "~14.5 in (36.6 cm) head-to-heel",
+      "weight": "~1.9\u20132.0 lb (900 g)",
+      "comparison": "cauliflower",
+      "baby": [
+        "End of second trimester: brain and lungs make major developmental leaps.",
+        "Retina develops; baby may respond to light directed at the belly.",
+        "Fat stores increase; skin becomes smoother over time.",
+        "Hiccups can be common due to diaphragm practice."
+      ],
+      "nicole": [
+        "Energy often improves; nausea may lessen, though not for everyone.",
+        "Uterus rises into the abdomen\u2014belly growth becomes more noticeable.",
+        "Ligaments stretch (round ligament pain) causing sharp twinges with movement.",
+        "Skin and circulation changes can show up (glow, nasal congestion, mild swelling).",
+        "Back/hip discomfort can increase as posture shifts; core and pelvic stability become important."
+      ],
+      "jake": [
+        "Help Nicole stay comfortable: support pillows, gentle walks, and proactive breaks during errands/outings.",
+        "Be the health advocate: attend key visits, take notes, and understand screening/ultrasound results.",
+        "Start nesting as a project: research baby gear, set up registry, and handle big purchases and returns.",
+        "Keep connection: weekly \u2018check-in\u2019 (10\u201315 min) on feelings, needs, and what\u2019s working."
+      ],
+      "todos": [
+        "Glucose screening for gestational diabetes is often done between 24\u201328 weeks; clarify prep instructions.",
+        "Ask about Rhogam timing if Nicole is Rh-negative (often around 28 weeks)."
+      ],
+      "symptoms": [
+        "Round ligament pain, mild back/hip discomfort",
+        "Nasal congestion or nosebleeds",
+        "Heartburn/indigestion",
+        "Leg cramps, restless legs",
+        "Skin changes (stretch marks, linea nigra, pigmentation)",
+        "Increased vaginal discharge (usually thin/white)"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Prioritize protein, fiber, and calcium; add iron-rich foods and pair with vitamin C to improve absorption.",
+        "Add pelvic-friendly strength: glute/hip work, posture, and core stability (often with prenatal PT guidance)."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 28,
+      "size": "~15.0 in (38 cm) head-to-heel",
+      "weight": "~2.2 lb (1,000 g)",
+      "comparison": "eggplant",
+      "baby": [
+        "Third trimester begins: rapid weight gain and brain growth.",
+        "Eyes can open/close; eyelashes are present.",
+        "Lungs are still maturing; surfactant increases significantly in coming weeks.",
+        "Baby\u2019s movements may feel stronger and more defined (rolls, stretches)."
+      ],
+      "nicole": [
+        "Breathlessness and heartburn can increase as the uterus crowds the diaphragm and stomach.",
+        "Sleep can be harder due to frequent urination, discomfort, and active baby movements.",
+        "Swelling in feet/ankles can be common; sudden or severe swelling should be reported.",
+        "Braxton Hicks contractions may become more frequent\u2014usually irregular and improve with rest/hydration."
+      ],
+      "jake": [
+        "Run interference: limit overcommitments, protect sleep, and handle late-pregnancy house tasks.",
+        "Practice \u2018labor support reps\u2019: breathing cues, counter-pressure, position changes, and timing contractions.",
+        "Finalize the plan: hospital bag, car seat install, pediatrician, leave/coverage, and postpartum help.",
+        "Watch for red flags too: severe headache, vision changes, heavy bleeding, decreased fetal movement\u2014call promptly.",
+        "Mark the milestone: plan a low-key celebration (photo, note to Eila, or a simple date)."
+      ],
+      "todos": [
+        "Glucose screening for gestational diabetes is often done between 24\u201328 weeks; clarify prep instructions.",
+        "Ask about Rhogam timing if Nicole is Rh-negative (often around 28 weeks).",
+        "Third-trimester logistics: confirm childcare/pet plan, leave paperwork, and preferred hospital/birth center procedures.",
+        "Consider a childbirth/breastfeeding/infant care class (in-person or online)."
+      ],
+      "symptoms": [
+        "Shortness of breath with exertion, heartburn",
+        "Pelvic pressure, back pain, sciatica",
+        "Swelling of feet/ankles; carpal tunnel symptoms",
+        "Braxton Hicks contractions",
+        "Sleep disruption, frequent urination",
+        "Hemorrhoids/constipation"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Smaller meals can reduce reflux; avoid lying down right after eating; consider left-side rest for circulation comfort.",
+        "Daily movement plus mobility can reduce swelling and improve sleep; stop if dizziness, bleeding, fluid leakage, or pain occurs."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 29,
+      "size": "~15.7 in (40 cm) head-to-heel",
+      "weight": "~2.5 lb (1,150 g)",
+      "comparison": "butternut squash",
+      "baby": [
+        "Brain grows folds (gyri/sulci) to increase surface area.",
+        "Muscles and lungs continue strengthening; breathing practice continues.",
+        "Bones are fully formed but still soft and flexible.",
+        "Baby may have more predictable active/rest periods."
+      ],
+      "nicole": [
+        "Breathlessness and heartburn can increase as the uterus crowds the diaphragm and stomach.",
+        "Sleep can be harder due to frequent urination, discomfort, and active baby movements.",
+        "Swelling in feet/ankles can be common; sudden or severe swelling should be reported.",
+        "Braxton Hicks contractions may become more frequent\u2014usually irregular and improve with rest/hydration."
+      ],
+      "jake": [
+        "Run interference: limit overcommitments, protect sleep, and handle late-pregnancy house tasks.",
+        "Practice \u2018labor support reps\u2019: breathing cues, counter-pressure, position changes, and timing contractions.",
+        "Finalize the plan: hospital bag, car seat install, pediatrician, leave/coverage, and postpartum help.",
+        "Watch for red flags too: severe headache, vision changes, heavy bleeding, decreased fetal movement\u2014call promptly."
+      ],
+      "todos": [
+        "Third-trimester logistics: confirm childcare/pet plan, leave paperwork, and preferred hospital/birth center procedures.",
+        "Consider a childbirth/breastfeeding/infant care class (in-person or online)."
+      ],
+      "symptoms": [
+        "Shortness of breath with exertion, heartburn",
+        "Pelvic pressure, back pain, sciatica",
+        "Swelling of feet/ankles; carpal tunnel symptoms",
+        "Braxton Hicks contractions",
+        "Sleep disruption, frequent urination",
+        "Hemorrhoids/constipation"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Smaller meals can reduce reflux; avoid lying down right after eating; consider left-side rest for circulation comfort.",
+        "Daily movement plus mobility can reduce swelling and improve sleep; stop if dizziness, bleeding, fluid leakage, or pain occurs."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 30,
+      "size": "~16.5 in (42 cm) head-to-heel",
+      "weight": "~3.0 lb (1,360 g)",
+      "comparison": "cabbage",
+      "baby": [
+        "Rapid fat accumulation for temperature regulation after birth.",
+        "Red blood cell production continues in bone marrow.",
+        "Baby can turn head side-to-side; stronger kicks and pushes.",
+        "Taste and smell pathways keep developing."
+      ],
+      "nicole": [
+        "Breathlessness and heartburn can increase as the uterus crowds the diaphragm and stomach.",
+        "Sleep can be harder due to frequent urination, discomfort, and active baby movements.",
+        "Swelling in feet/ankles can be common; sudden or severe swelling should be reported.",
+        "Braxton Hicks contractions may become more frequent\u2014usually irregular and improve with rest/hydration."
+      ],
+      "jake": [
+        "Run interference: limit overcommitments, protect sleep, and handle late-pregnancy house tasks.",
+        "Practice \u2018labor support reps\u2019: breathing cues, counter-pressure, position changes, and timing contractions.",
+        "Finalize the plan: hospital bag, car seat install, pediatrician, leave/coverage, and postpartum help.",
+        "Watch for red flags too: severe headache, vision changes, heavy bleeding, decreased fetal movement\u2014call promptly."
+      ],
+      "todos": [
+        "Third-trimester logistics: confirm childcare/pet plan, leave paperwork, and preferred hospital/birth center procedures.",
+        "Consider a childbirth/breastfeeding/infant care class (in-person or online)."
+      ],
+      "symptoms": [
+        "Shortness of breath with exertion, heartburn",
+        "Pelvic pressure, back pain, sciatica",
+        "Swelling of feet/ankles; carpal tunnel symptoms",
+        "Braxton Hicks contractions",
+        "Sleep disruption, frequent urination",
+        "Hemorrhoids/constipation"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Smaller meals can reduce reflux; avoid lying down right after eating; consider left-side rest for circulation comfort.",
+        "Daily movement plus mobility can reduce swelling and improve sleep; stop if dizziness, bleeding, fluid leakage, or pain occurs."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 31,
+      "size": "~17.0 in (43 cm) head-to-heel",
+      "weight": "~3.3 lb (1,500 g)",
+      "comparison": "coconut",
+      "baby": [
+        "Major brain development continues; nerve connections multiply.",
+        "Baby begins storing iron, calcium, and phosphorus\u2014important for newborn reserves.",
+        "Lungs are improving; many babies born now can do well with support.",
+        "Baby may start settling head-down, but position can still change."
+      ],
+      "nicole": [
+        "Breathlessness and heartburn can increase as the uterus crowds the diaphragm and stomach.",
+        "Sleep can be harder due to frequent urination, discomfort, and active baby movements.",
+        "Swelling in feet/ankles can be common; sudden or severe swelling should be reported.",
+        "Braxton Hicks contractions may become more frequent\u2014usually irregular and improve with rest/hydration."
+      ],
+      "jake": [
+        "Run interference: limit overcommitments, protect sleep, and handle late-pregnancy house tasks.",
+        "Practice \u2018labor support reps\u2019: breathing cues, counter-pressure, position changes, and timing contractions.",
+        "Finalize the plan: hospital bag, car seat install, pediatrician, leave/coverage, and postpartum help.",
+        "Watch for red flags too: severe headache, vision changes, heavy bleeding, decreased fetal movement\u2014call promptly."
+      ],
+      "todos": [
+        "Third-trimester logistics: confirm childcare/pet plan, leave paperwork, and preferred hospital/birth center procedures.",
+        "Consider a childbirth/breastfeeding/infant care class (in-person or online)."
+      ],
+      "symptoms": [
+        "Shortness of breath with exertion, heartburn",
+        "Pelvic pressure, back pain, sciatica",
+        "Swelling of feet/ankles; carpal tunnel symptoms",
+        "Braxton Hicks contractions",
+        "Sleep disruption, frequent urination",
+        "Hemorrhoids/constipation"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Smaller meals can reduce reflux; avoid lying down right after eating; consider left-side rest for circulation comfort.",
+        "Daily movement plus mobility can reduce swelling and improve sleep; stop if dizziness, bleeding, fluid leakage, or pain occurs."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 32,
+      "size": "~17.5 in (44.5 cm) head-to-heel",
+      "weight": "~3.8 lb (1,700 g)",
+      "comparison": "jicama",
+      "baby": [
+        "Practice breathing becomes more consistent; lung tissue matures.",
+        "Toenails and fingernails are fully formed.",
+        "Baby gains weight quickly; skin becomes less wrinkled.",
+        "Movements may feel more like stretches than flips due to less space."
+      ],
+      "nicole": [
+        "Breathlessness and heartburn can increase as the uterus crowds the diaphragm and stomach.",
+        "Sleep can be harder due to frequent urination, discomfort, and active baby movements.",
+        "Swelling in feet/ankles can be common; sudden or severe swelling should be reported.",
+        "Braxton Hicks contractions may become more frequent\u2014usually irregular and improve with rest/hydration."
+      ],
+      "jake": [
+        "Run interference: limit overcommitments, protect sleep, and handle late-pregnancy house tasks.",
+        "Practice \u2018labor support reps\u2019: breathing cues, counter-pressure, position changes, and timing contractions.",
+        "Finalize the plan: hospital bag, car seat install, pediatrician, leave/coverage, and postpartum help.",
+        "Watch for red flags too: severe headache, vision changes, heavy bleeding, decreased fetal movement\u2014call promptly."
+      ],
+      "todos": [
+        "Third-trimester logistics: confirm childcare/pet plan, leave paperwork, and preferred hospital/birth center procedures.",
+        "Consider a childbirth/breastfeeding/infant care class (in-person or online).",
+        "Start assembling the nursery/sleep space and test essential gear (monitor, pump, bottles if using)."
+      ],
+      "symptoms": [
+        "Shortness of breath with exertion, heartburn",
+        "Pelvic pressure, back pain, sciatica",
+        "Swelling of feet/ankles; carpal tunnel symptoms",
+        "Braxton Hicks contractions",
+        "Sleep disruption, frequent urination",
+        "Hemorrhoids/constipation"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Smaller meals can reduce reflux; avoid lying down right after eating; consider left-side rest for circulation comfort.",
+        "Daily movement plus mobility can reduce swelling and improve sleep; stop if dizziness, bleeding, fluid leakage, or pain occurs."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 33,
+      "size": "~18.0 in (45.7 cm) head-to-heel",
+      "weight": "~4.2\u20134.5 lb (1,900\u20132,050 g)",
+      "comparison": "pineapple",
+      "baby": [
+        "Brain and nervous system mature; coordination improves.",
+        "Immune support increases as maternal antibodies transfer more.",
+        "Baby\u2019s bones harden further except skull plates, which stay flexible for birth.",
+        "Baby may be head-down in preparation for delivery."
+      ],
+      "nicole": [
+        "Breathlessness and heartburn can increase as the uterus crowds the diaphragm and stomach.",
+        "Sleep can be harder due to frequent urination, discomfort, and active baby movements.",
+        "Swelling in feet/ankles can be common; sudden or severe swelling should be reported.",
+        "Braxton Hicks contractions may become more frequent\u2014usually irregular and improve with rest/hydration."
+      ],
+      "jake": [
+        "Run interference: limit overcommitments, protect sleep, and handle late-pregnancy house tasks.",
+        "Practice \u2018labor support reps\u2019: breathing cues, counter-pressure, position changes, and timing contractions.",
+        "Finalize the plan: hospital bag, car seat install, pediatrician, leave/coverage, and postpartum help.",
+        "Watch for red flags too: severe headache, vision changes, heavy bleeding, decreased fetal movement\u2014call promptly."
+      ],
+      "todos": [
+        "Start assembling the nursery/sleep space and test essential gear (monitor, pump, bottles if using)."
+      ],
+      "symptoms": [
+        "Shortness of breath with exertion, heartburn",
+        "Pelvic pressure, back pain, sciatica",
+        "Swelling of feet/ankles; carpal tunnel symptoms",
+        "Braxton Hicks contractions",
+        "Sleep disruption, frequent urination",
+        "Hemorrhoids/constipation"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Smaller meals can reduce reflux; avoid lying down right after eating; consider left-side rest for circulation comfort.",
+        "Daily movement plus mobility can reduce swelling and improve sleep; stop if dizziness, bleeding, fluid leakage, or pain occurs."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 34,
+      "size": "~18.5 in (47 cm) head-to-heel",
+      "weight": "~4.7 lb (2,150 g)",
+      "comparison": "cantaloupe",
+      "baby": [
+        "Lungs are nearing maturity; surfactant levels often adequate.",
+        "Central nervous system helps regulate body temperature more effectively.",
+        "Baby continues packing on fat; cheeks round out.",
+        "Most babies born now do well, though some NICU time may be needed."
+      ],
+      "nicole": [
+        "Breathlessness and heartburn can increase as the uterus crowds the diaphragm and stomach.",
+        "Sleep can be harder due to frequent urination, discomfort, and active baby movements.",
+        "Swelling in feet/ankles can be common; sudden or severe swelling should be reported.",
+        "Braxton Hicks contractions may become more frequent\u2014usually irregular and improve with rest/hydration."
+      ],
+      "jake": [
+        "Run interference: limit overcommitments, protect sleep, and handle late-pregnancy house tasks.",
+        "Practice \u2018labor support reps\u2019: breathing cues, counter-pressure, position changes, and timing contractions.",
+        "Finalize the plan: hospital bag, car seat install, pediatrician, leave/coverage, and postpartum help.",
+        "Watch for red flags too: severe headache, vision changes, heavy bleeding, decreased fetal movement\u2014call promptly.",
+        "Do a weekly \u2018readiness sweep\u2019: snacks, pads, meds, paperwork, and a charged battery pack by the door."
+      ],
+      "todos": [
+        "Start assembling the nursery/sleep space and test essential gear (monitor, pump, bottles if using).",
+        "Confirm pediatrician selection and how newborn appointments will work after discharge."
+      ],
+      "symptoms": [
+        "Shortness of breath with exertion, heartburn",
+        "Pelvic pressure, back pain, sciatica",
+        "Swelling of feet/ankles; carpal tunnel symptoms",
+        "Braxton Hicks contractions",
+        "Sleep disruption, frequent urination",
+        "Hemorrhoids/constipation"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Smaller meals can reduce reflux; avoid lying down right after eating; consider left-side rest for circulation comfort.",
+        "Daily movement plus mobility can reduce swelling and improve sleep; stop if dizziness, bleeding, fluid leakage, or pain occurs."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 35,
+      "size": "~19.1 in (48.5 cm) head-to-heel",
+      "weight": "~5.3 lb (2,400 g)",
+      "comparison": "honeydew",
+      "baby": [
+        "Kidneys and liver are mostly mature; finishing touches continue.",
+        "Baby\u2019s hearing is well developed; recognizes familiar voices.",
+        "Growth is mainly weight gain; movement may be less dramatic but still daily.",
+        "Vernix may thicken then start shedding into amniotic fluid."
+      ],
+      "nicole": [
+        "Breathlessness and heartburn can increase as the uterus crowds the diaphragm and stomach.",
+        "Sleep can be harder due to frequent urination, discomfort, and active baby movements.",
+        "Swelling in feet/ankles can be common; sudden or severe swelling should be reported.",
+        "Braxton Hicks contractions may become more frequent\u2014usually irregular and improve with rest/hydration."
+      ],
+      "jake": [
+        "Run interference: limit overcommitments, protect sleep, and handle late-pregnancy house tasks.",
+        "Practice \u2018labor support reps\u2019: breathing cues, counter-pressure, position changes, and timing contractions.",
+        "Finalize the plan: hospital bag, car seat install, pediatrician, leave/coverage, and postpartum help.",
+        "Watch for red flags too: severe headache, vision changes, heavy bleeding, decreased fetal movement\u2014call promptly.",
+        "Do a weekly \u2018readiness sweep\u2019: snacks, pads, meds, paperwork, and a charged battery pack by the door."
+      ],
+      "todos": [
+        "Confirm pediatrician selection and how newborn appointments will work after discharge."
+      ],
+      "symptoms": [
+        "Shortness of breath with exertion, heartburn",
+        "Pelvic pressure, back pain, sciatica",
+        "Swelling of feet/ankles; carpal tunnel symptoms",
+        "Braxton Hicks contractions",
+        "Sleep disruption, frequent urination",
+        "Hemorrhoids/constipation"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Smaller meals can reduce reflux; avoid lying down right after eating; consider left-side rest for circulation comfort.",
+        "Daily movement plus mobility can reduce swelling and improve sleep; stop if dizziness, bleeding, fluid leakage, or pain occurs."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 36,
+      "size": "~19.5 in (49.5 cm) head-to-heel",
+      "weight": "~5.8\u20136.0 lb (2,600\u20132,700 g)",
+      "comparison": "romaine heart",
+      "baby": [
+        "Often considered \u201clate preterm\u201d if born now; lungs usually close to ready.",
+        "Baby practices sucking and swallowing more efficiently.",
+        "Head-down position becomes more common; engagement may begin.",
+        "Body stores more fat for warmth and energy after birth."
+      ],
+      "nicole": [
+        "Breathlessness and heartburn can increase as the uterus crowds the diaphragm and stomach.",
+        "Sleep can be harder due to frequent urination, discomfort, and active baby movements.",
+        "Swelling in feet/ankles can be common; sudden or severe swelling should be reported.",
+        "Braxton Hicks contractions may become more frequent\u2014usually irregular and improve with rest/hydration.",
+        "Pelvic pressure may increase if baby drops; cervical changes may begin without obvious symptoms."
+      ],
+      "jake": [
+        "Run interference: limit overcommitments, protect sleep, and handle late-pregnancy house tasks.",
+        "Practice \u2018labor support reps\u2019: breathing cues, counter-pressure, position changes, and timing contractions.",
+        "Finalize the plan: hospital bag, car seat install, pediatrician, leave/coverage, and postpartum help.",
+        "Watch for red flags too: severe headache, vision changes, heavy bleeding, decreased fetal movement\u2014call promptly.",
+        "Mark the milestone: plan a low-key celebration (photo, note to Eila, or a simple date).",
+        "Do a weekly \u2018readiness sweep\u2019: snacks, pads, meds, paperwork, and a charged battery pack by the door."
+      ],
+      "todos": [
+        "Group B Strep swab is commonly 36\u201337 weeks; ask what a positive result means for labor antibiotics.",
+        "Pack hospital bag and install/inspect car seat (many areas offer check events)."
+      ],
+      "symptoms": [
+        "Shortness of breath with exertion, heartburn",
+        "Pelvic pressure, back pain, sciatica",
+        "Swelling of feet/ankles; carpal tunnel symptoms",
+        "Braxton Hicks contractions",
+        "Sleep disruption, frequent urination",
+        "Hemorrhoids/constipation"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Smaller meals can reduce reflux; avoid lying down right after eating; consider left-side rest for circulation comfort.",
+        "Daily movement plus mobility can reduce swelling and improve sleep; stop if dizziness, bleeding, fluid leakage, or pain occurs."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 37,
+      "size": "~20.0 in (50.8 cm) head-to-heel",
+      "weight": "~6.3 lb (2,850 g)",
+      "comparison": "winter melon",
+      "baby": [
+        "Early-term range begins; baby is considered readying for life outside.",
+        "Lungs and brain continue maturing even at term.",
+        "Baby may \u201cdrop\u201d lower into the pelvis, changing pressure sensations.",
+        "Fine hair (lanugo) continues to thin; skin is smoother."
+      ],
+      "nicole": [
+        "Breathlessness and heartburn can increase as the uterus crowds the diaphragm and stomach.",
+        "Sleep can be harder due to frequent urination, discomfort, and active baby movements.",
+        "Swelling in feet/ankles can be common; sudden or severe swelling should be reported.",
+        "Braxton Hicks contractions may become more frequent\u2014usually irregular and improve with rest/hydration.",
+        "Pelvic pressure may increase if baby drops; cervical changes may begin without obvious symptoms."
+      ],
+      "jake": [
+        "Run interference: limit overcommitments, protect sleep, and handle late-pregnancy house tasks.",
+        "Practice \u2018labor support reps\u2019: breathing cues, counter-pressure, position changes, and timing contractions.",
+        "Finalize the plan: hospital bag, car seat install, pediatrician, leave/coverage, and postpartum help.",
+        "Watch for red flags too: severe headache, vision changes, heavy bleeding, decreased fetal movement\u2014call promptly.",
+        "Do a weekly \u2018readiness sweep\u2019: snacks, pads, meds, paperwork, and a charged battery pack by the door."
+      ],
+      "todos": [
+        "Group B Strep swab is commonly 36\u201337 weeks; ask what a positive result means for labor antibiotics.",
+        "Pack hospital bag and install/inspect car seat (many areas offer check events)."
+      ],
+      "symptoms": [
+        "Shortness of breath with exertion, heartburn",
+        "Pelvic pressure, back pain, sciatica",
+        "Swelling of feet/ankles; carpal tunnel symptoms",
+        "Braxton Hicks contractions",
+        "Sleep disruption, frequent urination",
+        "Hemorrhoids/constipation"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Smaller meals can reduce reflux; avoid lying down right after eating; consider left-side rest for circulation comfort.",
+        "Daily movement plus mobility can reduce swelling and improve sleep; stop if dizziness, bleeding, fluid leakage, or pain occurs."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 38,
+      "size": "~20.2 in (51.3 cm) head-to-heel",
+      "weight": "~6.8 lb (3,100 g)",
+      "comparison": "leek",
+      "baby": [
+        "Growth slows a bit; organs finalize maturity and function.",
+        "Baby may have a firm grasp and strong reflexes.",
+        "Hair and nails keep growing; vernix may still be present in folds.",
+        "Baby continues practicing breathing, sucking, and swallowing."
+      ],
+      "nicole": [
+        "Breathlessness and heartburn can increase as the uterus crowds the diaphragm and stomach.",
+        "Sleep can be harder due to frequent urination, discomfort, and active baby movements.",
+        "Swelling in feet/ankles can be common; sudden or severe swelling should be reported.",
+        "Braxton Hicks contractions may become more frequent\u2014usually irregular and improve with rest/hydration.",
+        "Pelvic pressure may increase if baby drops; cervical changes may begin without obvious symptoms."
+      ],
+      "jake": [
+        "Run interference: limit overcommitments, protect sleep, and handle late-pregnancy house tasks.",
+        "Practice \u2018labor support reps\u2019: breathing cues, counter-pressure, position changes, and timing contractions.",
+        "Finalize the plan: hospital bag, car seat install, pediatrician, leave/coverage, and postpartum help.",
+        "Watch for red flags too: severe headache, vision changes, heavy bleeding, decreased fetal movement\u2014call promptly.",
+        "Do a weekly \u2018readiness sweep\u2019: snacks, pads, meds, paperwork, and a charged battery pack by the door."
+      ],
+      "todos": [
+        "Review \u2018when to go in\u2019 labor guidance: contraction timing, rupture of membranes, bleeding, and fetal movement changes.",
+        "Discuss induction policies and post-dates monitoring if pregnancy goes past the due date."
+      ],
+      "symptoms": [
+        "Shortness of breath with exertion, heartburn",
+        "Pelvic pressure, back pain, sciatica",
+        "Swelling of feet/ankles; carpal tunnel symptoms",
+        "Braxton Hicks contractions",
+        "Sleep disruption, frequent urination",
+        "Hemorrhoids/constipation"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Smaller meals can reduce reflux; avoid lying down right after eating; consider left-side rest for circulation comfort.",
+        "Daily movement plus mobility can reduce swelling and improve sleep; stop if dizziness, bleeding, fluid leakage, or pain occurs."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 39,
+      "size": "~20.3\u201320.7 in (51.6\u201352.6 cm) head-to-heel",
+      "weight": "~7.2 lb (3,300 g)",
+      "comparison": "small watermelon",
+      "baby": [
+        "Full-term week for many\u2014baby is typically fully developed.",
+        "Brain continues developing rapidly; coordination improves.",
+        "Fat stores are robust; baby can regulate temperature better.",
+        "Placenta is still working hard, but monitoring continues if risks exist."
+      ],
+      "nicole": [
+        "Breathlessness and heartburn can increase as the uterus crowds the diaphragm and stomach.",
+        "Sleep can be harder due to frequent urination, discomfort, and active baby movements.",
+        "Swelling in feet/ankles can be common; sudden or severe swelling should be reported.",
+        "Braxton Hicks contractions may become more frequent\u2014usually irregular and improve with rest/hydration.",
+        "Pelvic pressure may increase if baby drops; cervical changes may begin without obvious symptoms."
+      ],
+      "jake": [
+        "Run interference: limit overcommitments, protect sleep, and handle late-pregnancy house tasks.",
+        "Practice \u2018labor support reps\u2019: breathing cues, counter-pressure, position changes, and timing contractions.",
+        "Finalize the plan: hospital bag, car seat install, pediatrician, leave/coverage, and postpartum help.",
+        "Watch for red flags too: severe headache, vision changes, heavy bleeding, decreased fetal movement\u2014call promptly.",
+        "Do a weekly \u2018readiness sweep\u2019: snacks, pads, meds, paperwork, and a charged battery pack by the door."
+      ],
+      "todos": [
+        "Review \u2018when to go in\u2019 labor guidance: contraction timing, rupture of membranes, bleeding, and fetal movement changes.",
+        "Discuss induction policies and post-dates monitoring if pregnancy goes past the due date."
+      ],
+      "symptoms": [
+        "Shortness of breath with exertion, heartburn",
+        "Pelvic pressure, back pain, sciatica",
+        "Swelling of feet/ankles; carpal tunnel symptoms",
+        "Braxton Hicks contractions",
+        "Sleep disruption, frequent urination",
+        "Hemorrhoids/constipation"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Smaller meals can reduce reflux; avoid lying down right after eating; consider left-side rest for circulation comfort.",
+        "Daily movement plus mobility can reduce swelling and improve sleep; stop if dizziness, bleeding, fluid leakage, or pain occurs."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    },
+    {
+      "week": 40,
+      "size": "~20\u201322 in (51\u201356 cm) head-to-heel",
+      "weight": "~7.5\u20138.0 lb (3,400\u20133,600 g)",
+      "comparison": "pumpkin",
+      "baby": [
+        "Due-week: baby is ready, but timing varies\u2014many arrive between 38\u201341+ weeks.",
+        "Baby\u2019s skull bones remain flexible to navigate birth.",
+        "Lungs and digestive system are prepared; immune support continues via placenta.",
+        "Daily movement patterns remain important; reduced movement warrants a call."
+      ],
+      "nicole": [
+        "Breathlessness and heartburn can increase as the uterus crowds the diaphragm and stomach.",
+        "Sleep can be harder due to frequent urination, discomfort, and active baby movements.",
+        "Swelling in feet/ankles can be common; sudden or severe swelling should be reported.",
+        "Braxton Hicks contractions may become more frequent\u2014usually irregular and improve with rest/hydration.",
+        "Pelvic pressure may increase if baby drops; cervical changes may begin without obvious symptoms."
+      ],
+      "jake": [
+        "Run interference: limit overcommitments, protect sleep, and handle late-pregnancy house tasks.",
+        "Practice \u2018labor support reps\u2019: breathing cues, counter-pressure, position changes, and timing contractions.",
+        "Finalize the plan: hospital bag, car seat install, pediatrician, leave/coverage, and postpartum help.",
+        "Watch for red flags too: severe headache, vision changes, heavy bleeding, decreased fetal movement\u2014call promptly.",
+        "Do a weekly \u2018readiness sweep\u2019: snacks, pads, meds, paperwork, and a charged battery pack by the door."
+      ],
+      "todos": [
+        "Review \u2018when to go in\u2019 labor guidance: contraction timing, rupture of membranes, bleeding, and fetal movement changes.",
+        "Discuss induction policies and post-dates monitoring if pregnancy goes past the due date."
+      ],
+      "symptoms": [
+        "Shortness of breath with exertion, heartburn",
+        "Pelvic pressure, back pain, sciatica",
+        "Swelling of feet/ankles; carpal tunnel symptoms",
+        "Braxton Hicks contractions",
+        "Sleep disruption, frequent urination",
+        "Hemorrhoids/constipation"
+      ],
+      "nutrition": [
+        "Aim for a prenatal vitamin with folic acid; confirm any extra supplements with the provider (especially iron, DHA, vitamin D).",
+        "Hydration target: frequent sips all day; add electrolytes if nausea/vomiting is present.",
+        "Food safety basics: avoid unpasteurized dairy, high-mercury fish, and undercooked meats/eggs; reheat deli meats if advised by provider.",
+        "Smaller meals can reduce reflux; avoid lying down right after eating; consider left-side rest for circulation comfort.",
+        "Daily movement plus mobility can reduce swelling and improve sleep; stop if dizziness, bleeding, fluid leakage, or pain occurs."
+      ],
+      "redflags": [
+        "Heavy bleeding (soaking a pad), passing large clots, or severe one-sided pelvic pain",
+        "Fever \u2265 100.4\u00b0F (38\u00b0C), severe dehydration, or inability to keep fluids down",
+        "Severe headache, vision changes, chest pain, or shortness of breath at rest",
+        "Sudden significant swelling of face/hands, or right upper abdominal pain",
+        "Leakage of fluid you suspect could be amniotic fluid",
+        "After ~24 weeks: decreased fetal movement vs Nicole\u2019s normal pattern",
+        "Any concern that \u2018something isn\u2019t right\u2019\u2014trust the instinct and call the care team"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+
+/* Eila's Journey — pastel pink theme overrides */
+
+:root {
+  --ej-pink-1: #f9d7e2;
+  --ej-pink-2: #f3b6c8;
+  --ej-pink-3: #e88aa8;
+  --ej-ink: #2b2b33;
+  --ej-muted: rgba(43,43,51,0.72);
+}
+
+body {
+  color: var(--ej-ink);
+}
+
+#wrapper {
+  background: radial-gradient(1200px 600px at 20% 0%, rgba(249,215,226,0.75), rgba(255,255,255,0.0) 60%),
+              radial-gradient(900px 500px at 80% 10%, rgba(243,182,200,0.55), rgba(255,255,255,0.0) 60%);
+}
+
+/* Logo/title */
+#header .logo .title {
+  letter-spacing: 0.06em;
+}
+
+/* Buttons */
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button,
+.button {
+  box-shadow: none;
+}
+
+.button.primary {
+  background-color: var(--ej-pink-3) !important;
+}
+
+.button.primary:hover {
+  filter: brightness(1.04);
+}
+
+/* Hero / Spotlight */
+.hero h1 {
+  margin-bottom: 0.35em;
+}
+
+.spotlight-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.25fr;
+  gap: 2rem;
+  align-items: center;
+}
+
+.spotlight-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.14);
+}
+
+.spotlight-text ul {
+  margin-bottom: 1.25rem;
+}
+
+@media (max-width: 980px) {
+  .spotlight-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Weekly tour layout */
+.tour-layout {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 1.5rem;
+  align-items: start;
+}
+
+.tour-nav {
+  position: sticky;
+  top: 1rem;
+  align-self: start;
+  background: rgba(255,255,255,0.85);
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  backdrop-filter: blur(6px);
+}
+
+#weekSearch {
+  margin-bottom: 0.8rem;
+}
+
+.week-list {
+  max-height: 70vh;
+  overflow: auto;
+  display: grid;
+  gap: 0.4rem;
+  padding-right: 0.25rem;
+}
+
+.week-link {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.55rem 0.65rem;
+  border-radius: 0.45rem;
+  text-decoration: none;
+  border: 1px solid rgba(0,0,0,0.08);
+  background: rgba(249,215,226,0.35);
+  color: var(--ej-ink) !important;
+}
+
+.week-link:hover {
+  background: rgba(243,182,200,0.45);
+}
+
+.week-link.active {
+  background: rgba(232,138,168,0.35);
+  border-color: rgba(232,138,168,0.6);
+}
+
+.week-link.hidden {
+  display: none;
+}
+
+.week-link .wk {
+  font-weight: 600;
+}
+
+.week-link .wk-mini {
+  opacity: 0.75;
+  font-size: 0.9em;
+}
+
+/* Content cards */
+.week-hero .meta {
+  color: var(--ej-muted);
+  margin-top: 0.25rem;
+}
+
+.week-card {
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 0.6rem;
+  background: rgba(255,255,255,0.9);
+  padding: 0.2rem 0.8rem;
+  margin-bottom: 0.75rem;
+}
+
+.week-card summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 0.75rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.week-card summary::-webkit-details-marker {
+  display: none;
+}
+
+.week-card-title {
+  font-weight: 700;
+}
+
+.week-card-hint {
+  color: var(--ej-muted);
+  font-size: 0.85em;
+}
+
+.week-card-body {
+  padding: 0 0 0.9rem 0;
+}
+
+.week-card-body ul {
+  margin: 0.25rem 0 0.25rem 1.25rem;
+}
+
+.disclaimer {
+  margin-top: 1.5rem;
+  border-left: 4px solid rgba(232,138,168,0.75);
+  padding-left: 1rem;
+}
+
+@media (max-width: 980px) {
+  .tour-layout {
+    grid-template-columns: 1fr;
+  }
+  .tour-nav {
+    position: relative;
+    top: auto;
+  }
+}
